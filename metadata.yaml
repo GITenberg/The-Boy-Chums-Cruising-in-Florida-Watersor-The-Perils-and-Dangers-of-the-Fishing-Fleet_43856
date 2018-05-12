@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '32767'
     url: http://www.gutenberg.org/2009/agents/32767
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43856#The-Boy-Chums-Cruising-in-Florida-Watersor-The-Perils-and-Dangers-of-the-Fishing-Fleet
 gutenberg_issued: '2013-10-01'
 gutenberg_type: Text
 identifiers:
